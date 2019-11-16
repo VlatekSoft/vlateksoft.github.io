@@ -1,0 +1,202 @@
+/* установка фонового цвета для диалоговых окон в Mozilla Firefox */
+.x-window-dlg,x:-moz-any-link {
+	background-color: #D0D0D0;
+}
+
+/* запрет прозрачности панели, которая используется при перетаскивании окошек, в Mozilla Firefox */
+.x-panel-ghost,x:-moz-any-link {
+	opacity: 1 !important;
+}
+
+/* Отображение в верхнем регистре значения текстовых полей */ 
+.x-form-field-uppercase .x-form-field {
+	text-transform: uppercase;
+}
+
+/* Шрифт для меток полей */
+.x-field-label {
+    font: 12px tahoma,arial,helvetica,sans-serif;
+}
+
+.road-numbers {
+  font-family: 'Road Numbers' !important;
+  text-align: center !important;
+  font-size: 46pt !important;
+}
+
+.viol-group-colors-1 {
+   background: #D0D0D0; !important;
+}
+.viol-group-colors-2 {
+   background: rgb(220, 160, 255) !important;
+}
+.viol-group-colors-3 {
+   background: rgb(170, 210, 240) !important;
+}
+.viol-group-colors-4 {
+   background: rgb(255, 255, 127) !important;
+}
+.viol-group-colors-5 {
+   background: rgb(255, 200, 127) !important;
+}
+.viol-group-colors-6 {
+   /*background: rgb(255, 200, 127) !important;*/
+}
+.viol-group-colors-7 {
+   /*background: rgb(255, 200, 127) !important;*/
+}
+.viol-group-colors-8 {
+   /*background: rgb(255, 200, 127) !important;*/
+}
+.viol-group-colors-9 {
+   /*background: rgb(255, 200, 127) !important;*/
+}
+.viol-group-colors-10 {
+   /*background: rgb(255, 200, 127) !important;*/
+}
+.viol-group-colors-11 {
+   /*background: rgb(255, 200, 127) !important;*/
+}
+.viol-group-colors-12 {
+   /*background: rgb(255, 200, 127) !important;*/
+}
+.viol-group-colors--1 {
+   background: #FF0044; !important;
+}
+
+
+
+.x-fieldset {
+  /* 
+  border: 1px solid;
+  padding: 10px; 
+  */
+  padding: 3px 0px 0px 5px;
+  margin-bottom: 3px;
+  display: block;
+} 
+
+.small-logo {
+font: 14px tahoma,sans-serif,arial !important;
+font-weight: bold !important;
+text-align: center !important;
+margin-top: 10px;
+}
+
+.small-logo-ver {
+font: 11px helvetica,tahoma,sans-serif,arial !important;
+font-weight: normal !important;
+text-align: center !important;
+font-style: italic !important;
+}
+
+
+.img-brigth-20 {
+   filter: brightness(20%);
+}
+
+
+.img-brigth-40 {
+   filter: brightness(40%);
+}
+
+
+.img-brigth-60 {
+   filter: brightness(60%);
+}
+
+
+.img-brigth-80 {
+   filter: brightness(80%);
+}
+
+.img-brigth-100 {
+   filter: brightness(100%);
+}
+
+
+.img-brigth-120 {
+   filter: brightness(120%);
+}
+
+.img-brigth-140 {
+   filter: brightness(140%);
+}
+
+.img-brigth-160 {
+   filter: brightness(160%);
+}
+
+
+.img-brigth-180 {
+   filter: brightness(180%);
+}
+
+
+.img-brigth-200 {
+   filter: brightness(200%);
+}
+
+.img-brigth-220 {
+   filter: brightness(220%);
+}
+
+
+.img-brigth-240 {
+   filter: brightness(240%);
+}
+
+
+.img-brigth-260 {
+   filter: brightness(260%);
+}
+
+
+.img-brigth-280 {
+   filter: brightness(280%);
+}
+
+
+.img-brigth-300 {
+   filter: brightness(300%);
+}
+
+.img-brigth-320 {
+   filter: brightness(320%);
+}
+
+.img-brigth-340 {
+   filter: brightness(340%);
+}
+
+.img-brigth-360 {
+   filter: brightness(360%);
+}
+
+.img-brigth-380 {
+   filter: brightness(380%);
+}
+
+.img-brigth-400 {
+   filter: brightness(400%);
+}
+
+.img-brigth-420 {
+   filter: brightness(420%);
+}
+
+.img-brigth-440 {
+   filter: brightness(440%);
+}
+
+.img-brigth-460 {
+   filter: brightness(460%);
+}
+
+.img-brigth-480 {
+   filter: brightness(480%);
+}
+
+.img-brigth-500 {
+   filter: brightness(500%);
+}
